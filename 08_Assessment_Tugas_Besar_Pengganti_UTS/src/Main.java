@@ -12,11 +12,11 @@ public class Main {
 
         // Buat objek Customer
         Customer customer = new Customer(
-                "Dimas Aditya",
+                "Lintang Suminar Tyas Wening",
                 "3201010203030001",
-                "081234567890",
-                "dimas@email.com",
-                "Laki-laki"
+                "08971619206",
+                "Lintang.com",
+                "Perempuan"
         );
 
         // Buat objek Room
